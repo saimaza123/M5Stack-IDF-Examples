@@ -1,11 +1,3 @@
-/**
- * Pin assignment:
- * - i2c:
- *    GPIO12: SDA
- *    GPIO14: SDL
- * - no need to add external pull-up resistors.
- */
-
 #include <stdio.h>
 #include "driver/i2c.h"
 #include "freertos/task.h"
