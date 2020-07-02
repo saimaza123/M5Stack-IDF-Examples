@@ -1,0 +1,6 @@
+#
+# Component Makefile
+#
+COMPONENT_SUBMODULES += ILI9341
+COMPONENT_ADD_INCLUDEDIRS := ./include
+COMPONENT_SRCDIRS :=  ./ 

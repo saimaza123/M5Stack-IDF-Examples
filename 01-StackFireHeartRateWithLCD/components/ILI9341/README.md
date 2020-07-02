@@ -1,0 +1,2 @@
+This driver is based on nopnop2002's awsome projects[esp-idf-ili9340](https://github.com/nopnop2002/esp-idf-ili9340).
+I just deleted a lot of code not related to ili9341, because the screen of M5Stack-Core/Fire uses ili9341 chip.
